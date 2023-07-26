@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.train {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button {
+  padding: 5px;
+  margin-left: 20px;
+  border-radius: 5px;
+  color: #ff0b37;
+  background-color: #ffffff;
+  border: 1px solid #ff0b37;
+  cursor: pointer;
+}
+.para {
+  display: inline;
+  margin: 20px;
+}
